@@ -5,3 +5,6 @@
 h1,h2,h3,p{
     font-family: thing;
 }
+.pxart{
+    image-rendering: pixelated;
+}
